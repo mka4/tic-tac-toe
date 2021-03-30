@@ -276,6 +276,7 @@ class TicTacToe(object):
 
 
 def main():
+    print("Play tic tac toe against computer!")
     a = input("Please enter 1 to play for X or 2 to play for 0 or Enter for random selection:?>")
 
     if a == "":
